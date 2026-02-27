@@ -1,13 +1,7 @@
-public class GFG{
-    public static void main(String[] args){
-        
-        int m = 9, n = 5;
-        System.out.println("Before swapping: m = " + m + ", n = " + n);
-
-        int temp = m;
-        m = n;
-        n = temp;
-
-        System.out.println("After swapping: m = " + m + ", n = " + n);
+public class CommentsExample {
+    public static void main(String[] args) {
+        System.out.println("Hello, World");
+        int x = 10;
+        System.out.println("Value of x: " + x);
     }
 }
