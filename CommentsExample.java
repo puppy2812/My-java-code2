@@ -5,5 +5,6 @@ public class CommentsExample {
         System.out.println("Value of a: " +(x-y));
         System.out.println("Value of b: " +(x+y));
         System.out.println("Value of c: " +(x%y));
+        System.out.println("Value of d: " +(x*y));
     }
 }
