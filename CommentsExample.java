@@ -3,5 +3,6 @@ public class CommentsExample {
         System.out.println("Hello, World");
         int x = 10,y=2;
         System.out.println("Value of x: " +(x-y));
+        System.out.println("Value of x: " +(x+y));
     }
 }
